@@ -1,0 +1,1 @@
+# Earthquake-Intensity-Analysis-Using-QGIS
