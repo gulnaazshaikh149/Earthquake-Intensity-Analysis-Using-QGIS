@@ -1,6 +1,4 @@
 # Earthquake-Intensity-Analysis-Using-QGIS
-
-# Earthquake Analysis in QGIS
 ![0021](https://github.com/gulnaazshaikh149/Earthquake-Intensity-Analysis-Using-QGIS/assets/88612483/56d72d18-4c2e-4a45-ab3b-99177f748285)
 
 # Results
